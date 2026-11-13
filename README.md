@@ -11,7 +11,7 @@
 | `frontend/react/` | React 开发规范 |
 | `backend/nestjs/` | NestJS 分层、DTO 和 Prisma 规范 |
 | `backend/fastapi/` | FastAPI 分层、SQLAlchemy、Alembic 和测试规范 |
-| `scripts/` | 初始化、同步、升级和漂移检查 |
+| `scripts/` | 初始化、同步、升级和校验生成文件 |
 
 ## 接入项目
 
