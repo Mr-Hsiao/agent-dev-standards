@@ -8,7 +8,7 @@
 |---|---|
 | `AGENTS.md` | 标准库自身的维护入口 |
 | `shared/` | 开发流程、变更边界和交付要求 |
-| `frontend/react/` | React 分层、适配层和 ESLint 示例 |
+| `frontend/react/` | React 开发规范 |
 | `backend/nestjs/` | NestJS 分层、DTO 和 Prisma 规范 |
 | `backend/fastapi/` | FastAPI 分层、SQLAlchemy、Alembic 和测试规范 |
 | `scripts/` | 初始化、同步、升级和漂移检查 |
